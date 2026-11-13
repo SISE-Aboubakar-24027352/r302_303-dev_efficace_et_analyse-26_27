@@ -7,3 +7,6 @@
 [submodule "tp3-diagrammes-classe-uml_r303_26-27"]
 	path = tp3-diagrammes-classe-uml_r303_26-27
 	url = git@github.com:SISE-Aboubakar-24027352/tp3-diagrammes-classe-uml_r303_26-27.git
+[submodule "tp4-arbres-piles_r303_26-27"]
+	path = tp4-arbres-piles_r303_26-27
+	url = git@github.com:SISE-Aboubakar-24027352/tp4-arbres-piles_r303_26-27.git
