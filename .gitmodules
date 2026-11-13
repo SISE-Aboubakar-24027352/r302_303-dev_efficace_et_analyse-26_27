@@ -1,0 +1,9 @@
+[submodule "tp1-cas-utilisation-uml_r303_26-27"]
+	path = tp1-cas-utilisation-uml_r303_26-27
+	url = git@github.com:SISE-Aboubakar-24027352/tp1-cas-utilisation-uml_r303_26-27.git
+[submodule "tp2-liste-chainees_r302_26-27"]
+	path = tp2-liste-chainees_r302_26-27
+	url = git@github.com:SISE-Aboubakar-24027352/tp2-liste-chainees_r302_26-27.git
+[submodule "tp3-diagrammes-classe-uml_r303_26-27"]
+	path = tp3-diagrammes-classe-uml_r303_26-27
+	url = git@github.com:SISE-Aboubakar-24027352/tp3-diagrammes-classe-uml_r303_26-27.git
