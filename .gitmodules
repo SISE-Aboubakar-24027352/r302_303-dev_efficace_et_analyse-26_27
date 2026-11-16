@@ -13,3 +13,6 @@
 [submodule "tp5-diagrammes-cas_util-et-classe-uml_r303_26-27"]
 	path = tp5-diagrammes-cas_util-et-classe-uml_r303_26-27
 	url = git@github.com:SISE-Aboubakar-24027352/tp5-diagrammes-cas_util-et-classe-uml_r303_26-27.git
+[submodule "tp7-diagrammes-sequences-uml_r303_26-27"]
+	path = tp7-diagrammes-sequences-uml_r303_26-27
+	url = git@github.com:SISE-Aboubakar-24027352/tp7-diagrammes-sequences-uml_r303_26-27.git
