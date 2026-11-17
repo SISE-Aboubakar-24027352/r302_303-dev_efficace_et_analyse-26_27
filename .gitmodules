@@ -16,3 +16,6 @@
 [submodule "tp7-diagrammes-sequences-uml_r303_26-27"]
 	path = tp7-diagrammes-sequences-uml_r303_26-27
 	url = git@github.com:SISE-Aboubakar-24027352/tp7-diagrammes-sequences-uml_r303_26-27.git
+[submodule "tp6-tris_r302_26-27"]
+	path = tp6-tris_r302_26-27
+	url = git@github.com:SISE-Aboubakar-24027352/tp6-tris_r302_26-27.git
